@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer subtle shadow -->
+    <path
+        android:fillColor="#1f000000"
+        android:pathData="M38,36h32c3.3,0 6,2.7 6,6v28c0,3.3 -2.7,6 -6,6H38c-3.3,0 -6,-2.7 -6,-6V42c0,-3.3 2.7,-6 6,-6z" />
+
+    <!-- Shopping Bag Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,34h36c3.3,0 6,2.7 6,6v28c0,3.3 -2.7,6 -6,6H36c-3.3,0 -6,-2.7 -6,-6V40c0,-3.3 2.7,-6 6,-6z" />
+
+    <!-- Shopping Bag Handle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#1565C0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,36V28c0,-5.5 4.5,-10 10,-10v0c5.5,0 10,4.5 10,10v8" />
+
+    <!-- Shopping Bag Accent Tag Star -->
+    <path
+        android:fillColor="#FFB800"
+        android:pathData="M54,46l2.1,4.2 4.6,0.7 -3.3,3.2 0.8,4.6 -4.2,-2.2 -4.2,2.2 0.8,-4.6 -3.3,-3.2 4.6,-0.7z" />
+
+    <!-- Bottom Accent Ribbon -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M30,64h48v4c0,3.3 -2.7,6 -6,6H36c-3.3,0 -6,-2.7 -6,-6v-4z" />
+</vector>
